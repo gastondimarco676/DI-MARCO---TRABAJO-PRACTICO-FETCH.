@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CINETECA</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  <!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"-->
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <header id="header" class="header">
+   
+
+  </header>
+
+
+  <!-- Modal -->
+
+
+  <!--Ecommerce-->
+  <div class="modal-contenedor">
+    <div id="titulo">
+      <h1 id="h1">CINETECA</h1>
+      <h2>Tu lugar para ver Cine Clásico</h2>
+    </div>
+    <div class="modal-carrito">
+      <h3 id="carrito">CARRITO</h3>
+      <button id="boton-carrito"><span id="contadorCarrito"><i class="fas fa-shopping-cart"></i>0</span></button>
+      <!--button id="carritoMostrar"></i>Mostrar Carrito</button-->
+      <div id="carrito-contenedor">
+      </div>
+      <p class="precioProducto">Precio total: $<span id="precioTotal">0</span></p>
+      <button id="vaciar-carrito" class="boton-agregar">Vaciar carrito</button>
+    </div>
+  </div>
+  <main id="contenedor-peliculas"></main>
+
+<!--boton para abrir y cerrar fuera del div. tambien tiene iconos BS-->
+  <!--div class="col d-flex justify-content-center mb-4">
+      <div class="card shadow mb-1 bg-dark rounded" style="width: 20rem;">
+        <h5 class="card-title pt-2 text-center text-primary">Card title 1</h5>
+        <img src="./img/platillo1.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text text-white-50 description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <h5 class="text-primary">Precio: <span class="precio">$ 5</span></h5>
+          <div class="d-grid gap-2">
+          <button  class="btn btn-primary button">Añadir a Carrito</button>
+        </div>
+        </div>
+      </div>
+    </div-->
+
+  <!--input type="search" id="peliBuscada" name="Qué película buscás?"
+      placeholder="Película, autor, año...">
+
+    <input type="submit" value="Buscar" id="buscador"-->
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+    crossorigin="anonymous"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="peliculas.js"></script>
+</body>
+
+</html>

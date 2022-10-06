@@ -1,0 +1,15 @@
+[
+{"id":2, "nombre":"Suspicion", "con":"Joan Fontaine", "año":1940, "img":"img/suspicion.jpg", "precio":900, "cantidad":1 },
+{"id":3, "nombre":"Cat People", "con":"Simone Simon", "año":1942, "img":"img/catpeople.jpg", "precio":750, "cantidad":1 },
+{"id":4, "nombre":"Jane Eyre", "con":"Orson Welles", "año":1943, "img":"img/janeeyre.jpg", "precio":550, "cantidad":1 },
+{"id":5,"nombre":"The Suspect", "con":"Charles Laugthon", "año":1944, "img":"img/thesuspect.jpg", "precio":580, "cantidad":1 },
+{"id":6, "nombre":"Never Fear", "con":"Ida Lupino", "año":1950, "img":"img/neverfear.jpg",  "precio":490, "cantidad":1 },
+{"id":7, "nombre":"Leave To Heaven", "con":"Gene Tierney", "año":1945, "img":"img/leaveher.jpg", "precio":790, "cantidad":1 },
+{"id":8, "nombre":"Night and City", "con":"Richard Widmarck", "año":1950, "img":"img/nightandthecity.jpg", "precio":690, "cantidad":1 },
+{"id":9,"nombre":"Dear Murderer", "con":"Greta Gynt", "año":1947, "img":"img/dearmurderer.jpg", "precio":580, "cantidad":1 },
+{"id":10, "nombre":"Johhny Apollo", "con":"Tyrone Power", "año":1940, "img":"img/johnyapollo.jpg", "precio":870, "cantidad":1 },
+{"id":11, "nombre":"They Made Me a Criminal", "con":"John Garfield", "año":1939, "img":"img/theymademeacriminal.jpg", "precio":630, "cantidad":1 },
+{"id":12, "nombre":"Woman on the Run", "con":"Ann Sheridan", "año":1950, "img":"img/womanontherun.jpg", "precio":790, "cantidad":1 },
+{"id":13, "nombre":"Murder in the Clouds", "con":"Lyle Talbot", "año":1934, "img":"img/murderintheclouds.jpg", "precio":590, "cantidad":1 },
+{"id":14, "nombre":"Midnight Mary", "con":"Loretta Young", "año":1933, "img":"img/midnightmary.jpg", "precio":590, "cantidad":1 }
+ ]
